@@ -8,21 +8,28 @@ Practical education about the systems we use, the people we live and work with, 
 
 ## Availability
 
-**The series is in preparation. No courses are published yet.**
+**Computers is available now. Eleven other courses are planned.**
 
-The twelve topics below describe the planned programme. Each course title links to an introduction describing its planned scope. Full lesson links will be added when complete editions become available. Computers, Internet and Social Media are first in the preparation order; no publication dates are promised.
+Start with the complete Computers course below. The other course titles link to introductions describing their planned scope. Internet and Social Media are next in the preparation order; no publication dates are promised.
 
 For courses available now about using AI thoughtfully, visit [AI Introduction](https://github.com/Green-Web-Land/AI-Introduction).
 
 ## Explore the topics
 
-All full courses below are **planned**. Select a title to read its introduction. The activities illustrate the intended learning experience; completed lessons are not yet available.
+### Available courses
+
+| Course | Intended readers and contents | Start learning |
+|---|---|---|
+| **[Computers: Understand and Use Them](courses/computers/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Paper alternatives throughout; optional Windows 11 practice. | [Course home](courses/computers/README.md) · [Curriculum](courses/computers/CURRICULUM.md) · [First lesson](courses/computers/lessons/01-computer.md) |
+
+### Planned courses
+
+The eleven full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
 
 ### Technology in everyday life
 
 | Course | What it will help you practise | Example of a planned activity |
 |---|---|---|
-| **[Computers: What They Are and How They Help](courses/computers/README.md)** | Understand hardware and software; organise files; use applications; learn about accounts, backups and troubleshooting. | Save and organise a practice document, then explain how you would keep a separate backup. |
 | **[The Internet: Understand and Use It](courses/internet/README.md)** | Understand browsers, search, messages and cloud services; trace information to its source and recognise what needs checking. | Trace a search result to its original source and identify what remains unverified. |
 | **[Social Media: Use It with Purpose](courses/social-media/README.md)** | Consider audiences, privacy, information quality, scams, respectful participation and how you spend your attention. | Decide whether to share a fictional post after considering its audience and identifying details. |
 
@@ -52,18 +59,18 @@ All full courses below are **planned**. Select a title to read its introduction.
 
 ## Where to begin
 
-When courses are published, choose a topic that helps with something you want to understand or do. No single starting point will suit everyone.
+Choose an available course that helps with something you want to understand or do, or explore the introductions to planned topics. No single starting point will suit everyone.
 
 - **New to everyday technology?** Begin with Computers, then Internet and Social Media as they become available.
 - **Looking for practical life skills?** Explore Money, Family, Work or Personal Care according to your needs.
 - **Curious about how things work?** Explore Science, Earth and Cosmos.
 - **Want stronger learning habits?** Use Learning and Information Checking, with Safety and Getting Help alongside other subjects.
 
-You will be able to study a course on its own. These suggestions are a reading route, not prerequisites.
+Computers can be studied on its own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
 
 ## How you will learn
 
-The planned lesson format combines a clear objective, a short explanation, a fictional worked example, a practice activity and suggested reasoning. A fresh task will help you check whether you can apply the idea yourself.
+The lesson format combines a clear objective, a short explanation, a fictional worked example, a practice activity and suggested reasoning. A fresh task helps you check whether you can apply the idea yourself.
 
 Courses will be designed to stand alone. Learning with AI will be optional; the materials will not require WebAI, a paid AI service or an AI account. Activities will provide an offline route, with suitable ways to respond through writing, speaking or drawing.
 
@@ -71,7 +78,7 @@ Practice should not require sharing private experiences or uploading personal re
 
 ## Choosing material for your age and needs
 
-Each course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
+The available Computers edition is intended for adult beginners aged 18 and over. Its age label is an editorial audience choice, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
 
 Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label will describe the intended audience, not establish tested suitability or eligibility for an online service.
 
