@@ -8,9 +8,9 @@ Practical education about the systems we use, the people we live and work with, 
 
 ## Availability
 
-**Computers is available now. Eleven other courses are planned.**
+**Computers and Internet are available now. Ten other courses are planned.**
 
-Start with the complete Computers course below. The other course titles link to introductions describing their planned scope. Internet and Social Media are next in the preparation order; no publication dates are promised.
+Start with either complete course below. The other course titles link to introductions describing their planned scope. Social Media is next in the preparation order; no publication dates are promised.
 
 For courses available now about using AI thoughtfully, visit [AI Introduction](https://github.com/Green-Web-Land/AI-Introduction).
 
@@ -22,15 +22,16 @@ For courses available now about using AI thoughtfully, visit [AI Introduction](h
 |---|---|---|
 | **[Computers: Understand and Use Them](courses/computers/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Paper alternatives throughout; optional Windows 11 practice. | [Course home](courses/computers/README.md) · [Curriculum](courses/computers/CURRICULUM.md) · [First lesson](courses/computers/lessons/01-computer.md) |
 
+| **[The Internet and What It Can Do for You](courses/internet/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Every required activity has a paper route; optional search practice. | [Course home](courses/internet/README.md) · [Curriculum](courses/internet/CURRICULUM.md) · [First lesson](courses/internet/lessons/01-internet-web.md) |
+
 ### Planned courses
 
-The eleven full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
+The ten full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
 
 ### Technology in everyday life
 
 | Course | What it will help you practise | Example of a planned activity |
 |---|---|---|
-| **[The Internet: Understand and Use It](courses/internet/README.md)** | Understand browsers, search, messages and cloud services; trace information to its source and recognise what needs checking. | Trace a search result to its original source and identify what remains unverified. |
 | **[Social Media: Use It with Purpose](courses/social-media/README.md)** | Consider audiences, privacy, information quality, scams, respectful participation and how you spend your attention. | Decide whether to share a fictional post after considering its audience and identifying details. |
 
 ### Living and working with others
@@ -61,12 +62,12 @@ The eleven full courses below are **planned**. Select a title to read its introd
 
 Choose an available course that helps with something you want to understand or do, or explore the introductions to planned topics. No single starting point will suit everyone.
 
-- **New to everyday technology?** Begin with Computers, then Internet and Social Media as they become available.
+- **New to everyday technology?** Begin with Computers or Internet; explore the Social Media introduction for its planned scope.
 - **Looking for practical life skills?** Explore Money, Family, Work or Personal Care according to your needs.
 - **Curious about how things work?** Explore Science, Earth and Cosmos.
 - **Want stronger learning habits?** Use Learning and Information Checking, with Safety and Getting Help alongside other subjects.
 
-Computers can be studied on its own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
+Computers and Internet can each be studied on their own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
 
 ## How you will learn
 
@@ -78,7 +79,7 @@ Practice should not require sharing private experiences or uploading personal re
 
 ## Choosing material for your age and needs
 
-The available Computers edition is intended for adult beginners aged 18 and over. Its age label is an editorial audience choice, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
+The available Computers and Internet editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
 
 Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label will describe the intended audience, not establish tested suitability or eligibility for an online service.
 
@@ -105,3 +106,4 @@ Please use [GitHub Issues](https://github.com/Green-Web-Land/Essential-for-Life/
 For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Send logs or attachments only when specifically requested.
 
 [Back to Green Web Land](https://github.com/Green-Web-Land) · [Explore AI Introduction](https://github.com/Green-Web-Land/AI-Introduction)
+
