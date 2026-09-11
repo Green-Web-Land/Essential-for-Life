@@ -8,7 +8,7 @@ Practical education about the systems we use, the people we live and work with, 
 
 ## Availability
 
-**Computers, Internet, Social Media and Money Basics are available now. Eight other courses are planned.**
+**Computers, Internet, Social Media, Money Basics and Family Relationships are available now. Seven other courses are planned.**
 
 Start with any complete course below. The other course titles link to introductions describing their planned scope; no publication dates are promised.
 
@@ -24,16 +24,16 @@ For courses available now about using AI thoughtfully, visit [AI Introduction](h
 | **[The Internet and What It Can Do for You](courses/internet/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Every required activity has a paper route; optional search practice. | [Course home](courses/internet/README.md) · [Curriculum](courses/internet/CURRICULUM.md) · [First lesson](courses/internet/lessons/01-internet-web.md) |
 | **[Social Media: Use It with Purpose](courses/social-media/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. All required activities work without an account or posting. | [Course home](courses/social-media/README.md) · [Curriculum](courses/social-media/CURRICULUM.md) · [First lesson](courses/social-media/lessons/01-purpose.md) |
 | **[Money Basics: Plan, Spend, Save and Borrow](courses/money/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Fictional Canadian-dollar examples; all required activities use paper or a calculator, without real accounts or transactions. | [Course home](courses/money/README.md) · [Curriculum](courses/money/CURRICULUM.md) · [First lesson](courses/money/lessons/01-choices.md) |
+| **[Family Relationships: Communicate and Care](courses/family/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. No family participation or private disclosure required; scenarios may be skipped or replaced. | [Course home](courses/family/README.md) · [Curriculum](courses/family/CURRICULUM.md) · [First lesson](courses/family/lessons/01-families.md) |
 
 ### Planned courses
 
-The eight full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
+The seven full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
 
 ### Living and working with others
 
 | Course | What it will help you practise | Example of a planned activity |
 |---|---|---|
-| **[Family Relationships: Communicate and Care](courses/family/README.md)** | Listen, express needs, respect boundaries and consent, share responsibilities and recognise when to seek support. | Write a respectful request about a shared responsibility without guessing another person’s motives. |
 | **[Working Well: Skills for a Successful Employee](courses/work/README.md)** | Clarify tasks, communicate, collaborate, learn from feedback and raise concerns responsibly. | Clarify an ambiguous fictional task and explain how to report a problem constructively. |
 | **[Everyday Personal Care](courses/personal-care/README.md)** | Explore everyday hygiene, grooming, clothing care, rest and manageable personal routines, with attention to access needs and when to seek qualified guidance. | Compare two fictional routines and identify what information or qualified guidance is needed to adapt them. |
 
@@ -57,11 +57,11 @@ The eight full courses below are **planned**. Select a title to read its introdu
 Choose an available course that helps with something you want to understand or do, or explore the introductions to planned topics. No single starting point will suit everyone.
 
 - **New to everyday technology?** Choose Computers, Internet or Social Media according to your goal.
-- **Looking for practical life skills?** Start with Money Basics, or explore the planned Family, Work and Personal Care introductions according to your needs.
+- **Looking for practical life skills?** Start with Money Basics or Family Relationships, or explore the planned Work and Personal Care introductions according to your needs.
 - **Curious about how things work?** Explore Science, Earth and Cosmos.
 - **Want stronger learning habits?** Use Learning and Information Checking, with Safety and Getting Help alongside other subjects.
 
-Computers, Internet, Social Media and Money Basics can each be studied on their own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
+Computers, Internet, Social Media, Money Basics and Family Relationships can each be studied on their own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
 
 ## How you will learn
 
@@ -73,7 +73,7 @@ Practice should not require sharing private experiences or uploading personal re
 
 ## Choosing material for your age and needs
 
-The available Computers, Internet, Social Media and Money Basics editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
+The available Computers, Internet, Social Media, Money Basics and Family Relationships editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
 
 Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label will describe the intended audience, not establish tested suitability or eligibility for an online service.
 
@@ -100,6 +100,3 @@ Please use [GitHub Issues](https://github.com/Green-Web-Land/Essential-for-Life/
 For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Send logs or attachments only when specifically requested.
 
 [Back to Green Web Land](https://github.com/Green-Web-Land) · [Explore AI Introduction](https://github.com/Green-Web-Land/AI-Introduction)
-
-
-
