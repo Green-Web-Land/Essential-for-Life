@@ -8,7 +8,7 @@ Practical education about the systems we use, the people we live and work with, 
 
 ## Availability
 
-**All twelve courses below are available now, with complete lessons and supporting material.**
+**All thirteen courses below are available now, with complete lessons and supporting material.**
 
 Choose a course home, browse its curriculum or start its first lesson directly from this page.
 
@@ -25,6 +25,7 @@ For courses available now about using AI thoughtfully, visit [AI Introduction](h
 | **[Social Media: Use It with Purpose](courses/social-media/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. All required activities work without an account or posting. | [Course home](courses/social-media/README.md) · [Curriculum](courses/social-media/CURRICULUM.md) · [First lesson](courses/social-media/lessons/01-purpose.md) |
 | **[Money Basics: Plan, Spend, Save and Borrow](courses/money/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, exercises, answer guidance and a glossary. Fictional Canadian-dollar examples; all required activities use paper or a calculator, without real accounts or transactions. | [Course home](courses/money/README.md) · [Curriculum](courses/money/CURRICULUM.md) · [First lesson](courses/money/lessons/01-choices.md) |
 | **[Family Relationships: Communicate and Care](courses/family/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. No family participation or private disclosure required; scenarios may be skipped or replaced. | [Course home](courses/family/README.md) · [Curriculum](courses/family/CURRICULUM.md) · [First lesson](courses/family/lessons/01-families.md) |
+| **[Caring for Children](courses/caring-for-children/README.md)** | Adult parents, guardians and caregivers; twelve lessons, six diagrams, fictional exercises and answer guidance. Understand a child's world, thoughts and feelings while keeping adult responsibility and kind boundaries. No real-child participation required; general education, not individualized care advice. | [Course home](courses/caring-for-children/README.md) · [Curriculum](courses/caring-for-children/CURRICULUM.md) · [First lesson](courses/caring-for-children/lessons/01-world.md) |
 | **[Working Well: Skills for a Successful Employee](courses/work/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. No current job, workplace access or employer participation required; paper and optional calculator activities. | [Course home](courses/work/README.md) · [Curriculum](courses/work/CURRICULUM.md) · [First lesson](courses/work/lessons/01-role.md) |
 | **[Everyday Personal Care](courses/personal-care/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. Hygiene, grooming, clothing care, rest and manageable routines; no physical demonstration or personal health disclosure required. General education, not individual medical or dental advice. | [Course home](courses/personal-care/README.md) · [Curriculum](courses/personal-care/CURRICULUM.md) · [First lesson](courses/personal-care/lessons/01-routines.md) |
 
@@ -49,10 +50,11 @@ Choose a course that helps with something you want to understand or do. No singl
 
 - **New to everyday technology?** Choose Computers, Internet or Social Media according to your goal.
 - **Looking for practical life skills?** Start with Money Basics, Family Relationships, Working Well or Everyday Personal Care according to your needs.
+- **Caring for a child?** Start with Caring for Children to practise understanding, communication and kind boundaries.
 - **Curious about how things work?** Explore Science, Earth and Cosmos.
 - **Want stronger learning habits?** Use Learning and Information Checking, with Safety and Getting Help alongside other subjects.
 
-All twelve courses can be studied on their own. These suggestions are a reading route, not prerequisites.
+All thirteen courses can be studied on their own. These suggestions are a reading route, not prerequisites.
 
 ## How you will learn
 
@@ -64,7 +66,7 @@ Required practice does not ask for private experiences or personal records. Read
 
 ## Choosing material for your age and needs
 
-All twelve current course editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Read each course's audience, practical requirements and limits before beginning. Future editions for other readers would need their own suitability review.
+The current course editions are intended for adults. Caring for Children addresses parents, guardians and other adult caregivers; the other twelve editions address adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Read each course's audience, practical requirements and limits before beginning. Future editions for other readers would need their own suitability review.
 
 Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label describes the intended audience, not tested suitability or eligibility for an online service.
 
