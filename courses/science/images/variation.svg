@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-label="Fictional distances: A 10,12,14 cm; B 11,12,13 cm; both means 12 cm">
+<rect width="1000" height="500" fill="#f3f8fc"/>
+<text x="40" y="50" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#173852">Equal means can hide different variation</text>
+<text x="40" y="86" font-family="Arial,sans-serif" font-size="21" fill="#243b4b">Fictional distances; each point is one supplied reading.</text>
+<line x1="180" y1="130" x2="180" y2="300" stroke="#c5d4df"/><text x="180" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">10</text>
+<line x1="340" y1="130" x2="340" y2="300" stroke="#c5d4df"/><text x="340" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">11</text>
+<line x1="500" y1="130" x2="500" y2="300" stroke="#c5d4df"/><text x="500" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">12</text>
+<line x1="660" y1="130" x2="660" y2="300" stroke="#c5d4df"/><text x="660" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">13</text>
+<line x1="820" y1="130" x2="820" y2="300" stroke="#c5d4df"/><text x="820" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">14</text>
+<text x="60" y="188" font-family="Arial,sans-serif" font-size="25" fill="#173852">A</text>
+<text x="60" y="268" font-family="Arial,sans-serif" font-size="25" fill="#173852">B</text>
+<circle cx="180" cy="180" r="12" fill="#205f8b"/>
+<circle cx="500" cy="180" r="12" fill="#205f8b"/>
+<circle cx="820" cy="180" r="12" fill="#205f8b"/>
+<rect x="329" y="249" width="22" height="22" fill="#205f8b"/>
+<rect x="489" y="249" width="22" height="22" fill="#205f8b"/>
+<rect x="649" y="249" width="22" height="22" fill="#205f8b"/>
+<line x1="160" y1="300" x2="840" y2="300" stroke="#243b4b" stroke-width="2"/>
+<text x="500" y="373" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#243b4b">Distance (cm)</text>
+<text x="40" y="420" font-family="Arial,sans-serif" font-size="22" fill="#243b4b">Both means: 12 cm. Observed range: A = 4 cm; B = 2 cm.</text>
+<text x="40" y="467" font-family="Arial,sans-serif" font-size="18" fill="#526779">Observed ranges are not uncertainty intervals. No causal conclusion is implied.</text></svg>
