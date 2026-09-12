@@ -8,15 +8,15 @@ Practical education about the systems we use, the people we live and work with, 
 
 ## Availability
 
-**Computers, Internet, Social Media, Money Basics, Family Relationships, Working Well and Everyday Personal Care are available now. Five other courses are planned.**
+**All twelve courses below are available now, with complete lessons and supporting material.**
 
-Start with any complete course below. The other course titles link to introductions describing their planned scope; no publication dates are promised.
+Choose a course home, browse its curriculum or start its first lesson directly from this page.
 
 For courses available now about using AI thoughtfully, visit [AI Introduction](https://github.com/Green-Web-Land/AI-Introduction).
 
 ## Explore the topics
 
-### Available courses
+### Available courses — everyday technology and life
 
 | Course | Intended readers and contents | Start learning |
 |---|---|---|
@@ -28,51 +28,47 @@ For courses available now about using AI thoughtfully, visit [AI Introduction](h
 | **[Working Well: Skills for a Successful Employee](courses/work/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. No current job, workplace access or employer participation required; paper and optional calculator activities. | [Course home](courses/work/README.md) · [Curriculum](courses/work/CURRICULUM.md) · [First lesson](courses/work/lessons/01-role.md) |
 | **[Everyday Personal Care](courses/personal-care/README.md)** | Adult beginners (18+); ten lessons, five explanatory diagrams, fictional exercises, answer guidance and a glossary. Hygiene, grooming, clothing care, rest and manageable routines; no physical demonstration or personal health disclosure required. General education, not individual medical or dental advice. | [Course home](courses/personal-care/README.md) · [Curriculum](courses/personal-care/CURRICULUM.md) · [First lesson](courses/personal-care/lessons/01-routines.md) |
 
-### Planned courses
-
-The five full courses below are **planned**. Select a title to read its introduction. Their activities illustrate the intended learning experience; their completed lessons are not yet available.
-
 ### Understanding our world
 
-| Course | What it will help you practise | Example of a planned activity |
+| Course | Intended readers and contents | Start learning |
 |---|---|---|
-| **[Becoming a Scientist: Ask, Test and Discover](courses/science/README.md)** | Ask questions, compare observations and explanations, use safe investigations and understand uncertainty and scientific careers. | Use supplied observations to compare explanations and propose a safe way to check one. |
-| **[How Earth Works: A Living System](courses/earth/README.md)** | Explore connections among air, water, rocks, climate and ecosystems. “Living system” describes these connections; it does not mean Earth is a biological organism. | Draw a connection among rain, soil, plants and a nearby waterway, then explain the parts. |
-| **[Exploring the Cosmos](courses/cosmos/README.md)** | Explore the solar system, stars, galaxies and scale; distinguish observation, inference and speculation. | Place familiar space objects on a scale diagram and separate known observations from open questions. |
+| **[Becoming a Scientist: Ask, Test and Discover](courses/science/README.md)** | Adult beginners (18+); ten lessons, five diagrams, exercises, answer guidance and a glossary. Inquiry, measurement, fair comparisons, uncertainty and routes into scientific work. Supplied fictional records; no laboratory or real experiment required. | [Course home](courses/science/README.md) · [Curriculum](courses/science/CURRICULUM.md) · [First lesson](courses/science/lessons/01-inquiry.md) |
+| **[How Earth Works: A Living System](courses/earth/README.md)** | Adult beginners (18+); ten lessons, five diagrams, exercises, answer guidance and a glossary. Air, water, rocks, climate and ecosystems, with fictional paper models. “Living system” describes connections; Earth is not a biological organism. | [Course home](courses/earth/README.md) · [Curriculum](courses/earth/CURRICULUM.md) · [First lesson](courses/earth/lessons/01-systems.md) |
+| **[Exploring the Cosmos](courses/cosmos/README.md)** | Adult beginners (18+); ten lessons, five diagrams, exercises, answer guidance and a glossary. Space, scale, light and evidence. Supplied paper activities; no telescope or outdoor observation required. | [Course home](courses/cosmos/README.md) · [Curriculum](courses/cosmos/CURRICULUM.md) · [First lesson](courses/cosmos/lessons/01-address.md) |
 
 ### Skills that support every subject
 
-| Course | What it will help you practise | Example of a planned activity |
+| Course | Intended readers and contents | Start learning |
 |---|---|---|
-| **[How to Learn and Check Information](courses/learning/README.md)** | Practise, use feedback, compare sources and explain what you understand—and what remains uncertain. | Compare two supplied claims, explain which evidence matters and try a new example independently. |
-| **[Everyday Safety and Getting Help](courses/safety/README.md)** | Recognise risks, pause unsafe actions and identify an appropriate person or service to help. | Choose a safer next step and an appropriate help route in a fictional everyday situation. |
+| **[How to Learn and Check Information](courses/learning/README.md)** | Adult beginners (18+); ten lessons, five diagrams, exercises, answer guidance and a glossary. Practice, feedback, source checking and uncertainty. Supplied fictional activities; no timed assessment or personal disclosure required. | [Course home](courses/learning/README.md) · [Curriculum](courses/learning/CURRICULUM.md) · [First lesson](courses/learning/lessons/01-goal.md) |
+| **[Everyday Safety and Getting Help](courses/safety/README.md)** | Adult beginners (18+); ten lessons, five diagrams, exercises, answer guidance and a glossary. Recognising concerns and choosing appropriate help, with Ontario/Toronto examples. Fictional paper scenarios; no live calls or practical drills. | [Course home](courses/safety/README.md) · [Curriculum](courses/safety/CURRICULUM.md) · [First lesson](courses/safety/lessons/01-notice.md) |
 
 ## Where to begin
 
-Choose an available course that helps with something you want to understand or do, or explore the introductions to planned topics. No single starting point will suit everyone.
+Choose a course that helps with something you want to understand or do. No single starting point will suit everyone.
 
 - **New to everyday technology?** Choose Computers, Internet or Social Media according to your goal.
 - **Looking for practical life skills?** Start with Money Basics, Family Relationships, Working Well or Everyday Personal Care according to your needs.
 - **Curious about how things work?** Explore Science, Earth and Cosmos.
 - **Want stronger learning habits?** Use Learning and Information Checking, with Safety and Getting Help alongside other subjects.
 
-Computers, Internet, Social Media, Money Basics, Family Relationships, Working Well and Everyday Personal Care can each be studied on their own; future courses are also intended to stand alone. These suggestions are a reading route, not prerequisites.
+All twelve courses can be studied on their own. These suggestions are a reading route, not prerequisites.
 
 ## How you will learn
 
 The lesson format combines a clear objective, a short explanation, a fictional worked example, a practice activity and suggested reasoning. A fresh task helps you check whether you can apply the idea yourself.
 
-Courses will be designed to stand alone. Learning with AI will be optional; the materials will not require WebAI, a paid AI service or an AI account. Activities will provide an offline route, with suitable ways to respond through writing, speaking or drawing.
+Courses stand alone and do not require WebAI, a paid AI service or an AI account. Required activities provide an offline route; follow each course's instructions for paper or equivalent responses. Some courses offer optional computer or search practice.
 
-Practice should not require sharing private experiences or uploading personal records. Readers can pause, ask for help or choose a different approach. Completion will not be presented as a professional qualification or a guarantee of outcomes.
+Required practice does not ask for private experiences or personal records. Readers can pause, ask for help or choose a different approach. Completion is not a professional qualification or a guarantee of outcomes.
 
 ## Choosing material for your age and needs
 
-The available Computers, Internet, Social Media, Money Basics, Family Relationships, Working Well and Everyday Personal Care editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Each future course edition will state its intended readers, practical requirements and guidance for parents, educators or other supporters. A single age range has not been assigned to this entire series.
+All twelve current course editions are intended for adult beginners aged 18 and over. Their age labels are editorial audience choices, not tested suitability. Read each course's audience, practical requirements and limits before beginning. Future editions for other readers would need their own suitability review.
 
-Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label will describe the intended audience, not establish tested suitability or eligibility for an online service.
+Adults may also benefit from introductory material. Children and teenagers should use material selected for their needs with an appropriate trusted adult. An age label describes the intended audience, not tested suitability or eligibility for an online service.
 
-Money, personal care, work, relationships and safety need careful attention to circumstances. Courses will distinguish general learning from individual professional advice, identify relevant locations and dates where rules vary, and provide sources for important claims.
+Money, personal care, work, relationships and safety need careful attention to circumstances. Read the course-specific limits and dated sources. General learning does not replace individual professional advice or emergency help; local circumstances and services matter.
 
 ## Reuse terms — all educational content — free
 
@@ -84,7 +80,7 @@ Linked third-party material retains its own terms. This notice does not license 
 
 Suggested credit: “Essential Knowledge for Life — Massoud Fattahi, Canada. Source: https://github.com/Green-Web-Land/Essential-for-Life. CC BY 4.0. Changes: [describe any changes].” Include the licence link and retain additional supplied attribution.
 
-These terms apply to the original educational content across this series. Copies of future course folders will include their licence notices. Our internal publication process adds no restriction to recipients' CC BY 4.0 rights.
+These terms apply to the original educational content across this series. Each current course folder includes its licence notice. Our internal publication process adds no restriction to recipients' CC BY 4.0 rights.
 
 ## Questions and suggestions
 
@@ -95,3 +91,4 @@ Please use [GitHub Issues](https://github.com/Green-Web-Land/Essential-for-Life/
 For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Send logs or attachments only when specifically requested.
 
 [Back to Green Web Land](https://github.com/Green-Web-Land) · [Explore AI Introduction](https://github.com/Green-Web-Land/AI-Introduction)
+
