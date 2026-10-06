@@ -80,9 +80,11 @@ You may copy, share, redistribute, translate and adapt the material, including c
 
 Linked third-party material retains its own terms. This notice does not license WebAI software or grant trademark rights. No guarantee of accuracy or suitability is provided; the [full legal code](https://creativecommons.org/licenses/by/4.0/legalcode.en) controls.
 
-Suggested credit: “Essential Knowledge for Life — Massoud Fattahi, Canada. Source: https://github.com/Green-Web-Land/Essential-for-Life. CC BY 4.0. Changes: [describe any changes].” Include the licence link and retain additional supplied attribution.
+Suggested credit: “Essential Knowledge for Life — Massoud Fattahi, Canada. [Source](https://github.com/Green-Web-Land/Essential-for-Life). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).”
 
-These terms apply to the original educational content across this series. Each current course folder includes its licence notice. Our internal publication process adds no restriction to recipients' CC BY 4.0 rights.
+If you adapt the material, identify your changes alongside the credit. Retain any additional supplied notices.
+
+These terms apply to the original educational content across this series. Each current course folder includes its licence notice.
 
 ## Questions and suggestions
 
@@ -93,4 +95,3 @@ Please use [GitHub Issues](https://github.com/Green-Web-Land/Essential-for-Life/
 For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Send logs or attachments only when specifically requested.
 
 [Back to Green Web Land](https://github.com/Green-Web-Land) · [Explore AI Introduction](https://github.com/Green-Web-Land/AI-Introduction)
-

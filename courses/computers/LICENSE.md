@@ -8,4 +8,4 @@ Suggested attribution: “Essential Knowledge for Life — Computers — Massoud
 
 Source: https://github.com/Green-Web-Land/Essential-for-Life/tree/main/courses/computers
 
-Third-party references, trademarks and software are not relicensed by this notice. The licence does not grant trademark rights or permissions for material the licensor does not control. Material is offered without warranties as provided in the licence. Internal publication review does not impose an additional condition on recipients' licensed reuse.
+Third-party references, trademarks and software are not relicensed by this notice. The licence does not grant trademark rights or permissions for material the licensor does not control. Material is offered without warranties as provided in the licence.
