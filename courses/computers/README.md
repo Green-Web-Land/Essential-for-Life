@@ -32,4 +32,6 @@ Go at your own pace. Explain a skill in your own words and demonstrate it with f
 
 Original educational text and diagrams in this course are offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them, including commercially, with attribution, a licence link and an indication of changes. Do not imply endorsement. Third-party resources retain their own terms. See the [licence notice](LICENSE.md).
 
-Suggested credit: “Essential Knowledge for Life — Computers — Massoud Fattahi, Canada. CC BY 4.0. Changes: [describe, if any].”
+Suggested credit: “Essential Knowledge for Life — Computers — Massoud Fattahi, Canada. [Source](https://github.com/Green-Web-Land/Essential-for-Life/tree/main/courses/computers). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).”
+
+If you adapt the material, identify your changes alongside the credit. Retain any additional supplied notices.

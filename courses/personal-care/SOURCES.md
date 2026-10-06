@@ -25,6 +25,6 @@ Lessons 1, 9 and 10 combine planning and scope distinctions; they do not supply 
 
 Recheck affected references before changing factual guidance. If a source conflicts with individual professional instructions, do not use the lesson to override those instructions. Ask the relevant professional. When a source cannot support an essential claim, remove or resolve the claim before distributing an update.
 
-The course has not had clinical validation or an independent professional legal review. Its internal readiness review is not represented as either.
+This course has not been clinically validated. It provides general education and does not replace individual professional care.
 
 [Reuse](LICENSE.md)

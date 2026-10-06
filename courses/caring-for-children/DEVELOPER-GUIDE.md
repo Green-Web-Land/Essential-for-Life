@@ -10,6 +10,6 @@ Copy the complete course folder from a pinned approved revision, including LICEN
 
 Keep infant safety notes next to the daily-care guidance. Preserve adult responsibility, freedom to decline affection or disclosure, nonviolent boundaries and the distinction between fictional examples and actual cases. Do not turn exercise answers into an automated assessment of a child or caregiver. Completion is not certification.
 
-Adaptation and commercial reuse are permitted under the licence. Credit the source, link the licence and identify your changes; do not imply publisher or source-organization endorsement. Translations should retain safety meaning and jurisdiction labels. The publisher's review procedure applies to its own releases; it is not an additional licence restriction on downstream users.
+Adaptation and commercial reuse are permitted under the licence. Credit the source, link the licence and identify your changes; do not imply publisher or source-organization endorsement. Translations should retain safety meaning and jurisdiction labels.
 
 If you add forms, analytics, accounts, personalized advice or AI features, assess those new functions separately. This static content review does not assess their privacy, clinical safety or legal compliance. Validate rendering and links in your own product. No application integration or runtime validation is claimed here.

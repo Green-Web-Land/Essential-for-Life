@@ -16,7 +16,7 @@ Retain the adult audience, optional participation, privacy boundaries and lack o
 
 These static files do not implement accounts, analytics or private research storage. A host application may add such behaviour; inspect and disclose its actual features separately. Do not infer that a host collects nothing from the static files alone.
 
-AI, automated grading, participant studies and data collection are outside this package. Assess any addition before use. Do not present a generated answer, rubric score or internal publisher review as institutional research ethics approval.
+AI, automated grading, participant studies and data collection are outside this package. Assess any addition before use. Do not present a generated answer or rubric score as institutional research ethics approval.
 
 ## Rights and maintenance
 

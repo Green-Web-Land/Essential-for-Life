@@ -10,4 +10,4 @@ Do not turn the rubric into automated employee evaluation, legal advice, safety 
 
 Maintain accessible reading and an offline route. Test keyboard use, resizing and assistive-technology presentation in your actual renderer; no formal conformance has been established for your implementation.
 
-SVGs are editable code originals with no scripts or external images; PNGs are display versions. Follow [CC BY 4.0](LICENSE.md), retain attribution and source notices, and identify changes. Recheck dated regional guidance when maintaining an edition. The publisher's internal approval flow adds no restriction to recipients' licence rights.
+SVGs are editable code originals with no scripts or external images; PNGs are display versions. Follow [CC BY 4.0](LICENSE.md), retain attribution and source notices, and identify changes. Recheck dated regional guidance when maintaining an edition.

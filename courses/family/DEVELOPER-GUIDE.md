@@ -12,4 +12,4 @@ Static files collect no learner responses. Adding saved journals, chat, uploads,
 
 Provide an offline reading route. Test keyboard access, resizing, contrast, image alternatives and screen-reader structure in your own renderer. Source figures and text alternatives do not establish formal accessibility conformance.
 
-Follow [the licence](LICENSE.md), retain notices and identify changes. Check dated help links when maintaining an edition. The publisher's internal approval process is not an additional restriction on recipients' CC BY 4.0 rights.
+Follow [the licence](LICENSE.md), retain notices and identify changes. Check dated help links when maintaining an edition.
